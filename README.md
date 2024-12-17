@@ -50,4 +50,4 @@ https://drive.google.com/drive/folders/1i9yqjSzoCICsM-Oobp_yAKZf6OlEOzlJ?usp=dri
 
 
 I have independently completed all the work related to this project.
-For more convenient, I have added PPT and report in thi folder.
+For more convenient, I have added PPT and report in this folder.
